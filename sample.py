@@ -1,6 +1,6 @@
 class Person:
     race = 'Filipino' # This is a class attribute
-                      # shared among objects
+                      # shared among object
 
     def __init__(self, name, age, gender):
         self.name = name
